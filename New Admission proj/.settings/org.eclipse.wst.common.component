@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="New Admission proj">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/New Admission new/New Admission/New Admission/build/generated/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/New Admission new/New Admission/New Admission/src/java"/>
+        <property name="context-root" value="New_Admission_proj"/>
+        <property name="java-output-path" value="/New Admission proj/New Admission new/New Admission/New Admission/build/generated/classes"/>
+    </wb-module>
+</project-modules>
